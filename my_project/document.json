@@ -1,0 +1,16 @@
+{
+  "kind": "application",
+  "name": "hello-world",
+  "description": "Hello World application",
+  "version": "0.1.0",
+  "configuration": {
+    "specification": {
+      "specification_aaa": "value1",
+      "specification_aab": "value2"
+    },
+    "settings": {
+      "setting_aaa": "value1",
+      "setting_aab": "value2"
+    }
+  }
+}
